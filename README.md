@@ -3,9 +3,14 @@
 ***
 
 ## [Problem 1](https://projecteuler.net/problem=1)
-If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
-Find the sum of all the multiples of 3 or 5 below 1000.
-## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Multiples%20of%203%20and%205.py)
+Multiples of 3 and 5
+## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%201.py)
+233168
+
+## [Problem 2](https://projecteuler.net/problem=2)
+Even Fibonacci numbers
+## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%202.py)
+4613732
 
 ***
 
