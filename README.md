@@ -12,6 +12,11 @@ Even Fibonacci numbers
 ## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%202.py)
 4613732
 
+## [Problem 3](https://projecteuler.net/problem=3)
+Largest prime factor
+## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%203.py)
+6857
+
 ***
 
 ```
