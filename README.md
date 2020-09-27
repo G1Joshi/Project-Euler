@@ -17,6 +17,11 @@ Largest prime factor
 ## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%203.py)
 6857
 
+# [Problem 4](https://projecteuler.net/problem=4)
+Largest palindrome product
+## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%204.py)
+906609
+
 ***
 
 ```
