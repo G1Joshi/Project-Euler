@@ -2,17 +2,17 @@
 
 ***
 
-## [Problem 1](https://projecteuler.net/problem=1)
+# [Problem 1](https://projecteuler.net/problem=1)
 Multiples of 3 and 5
 ## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%201.py)
 233168
 
-## [Problem 2](https://projecteuler.net/problem=2)
+# [Problem 2](https://projecteuler.net/problem=2)
 Even Fibonacci numbers
 ## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%202.py)
 4613732
 
-## [Problem 3](https://projecteuler.net/problem=3)
+# [Problem 3](https://projecteuler.net/problem=3)
 Largest prime factor
 ## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%203.py)
 6857
