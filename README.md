@@ -22,6 +22,11 @@ Largest palindrome product
 ## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%204.py)
 906609
 
+# [Problem 6](https://projecteuler.net/problem=6)
+Sum square difference
+## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%206.py)
+25164150
+
 ***
 
 ```
