@@ -1,4 +1,4 @@
-### [Project Euler](projecteuler.net) is a series of challenging problems that require mathematical and programming skills.
+### [Project Euler](https://projecteuler.net) is a series of challenging problems that require mathematical and programming skills.
 
 ***
 
