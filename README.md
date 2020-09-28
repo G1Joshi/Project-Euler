@@ -27,6 +27,11 @@ Sum square difference
 ## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%206.py)
 25164150
 
+# [Problem 7](https://projecteuler.net/problem=7)
+10001st prime
+## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%207.py)
+104743
+
 ***
 
 ```
