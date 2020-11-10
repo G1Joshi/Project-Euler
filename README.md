@@ -32,6 +32,11 @@ Sum square difference
 ## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%207.py)
 104743
 
+# [Problem 8](https://projecteuler.net/problem=8)
+Largest product in a series
+## [Solution](https://github.com/G1Joshi/Project-Euler/blob/master/Problem%20Set/Problem%208.py)
+23514624000
+
 ***
 
 ```
